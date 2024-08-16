@@ -1,7 +1,3 @@
-# coursera-customer-churn
-[Customer churn prediction](https://www.coursera.org/projects/data-science-challenge) challenge on Coursera.
-
-This challenge consists of predicting the customer churn on a video streaming service. In this challenge, you are given two datasets: train.csv and test.csv. The train.csv dataset contains 243,787 subscriptions with the target variable Churn indicating whether a user has churned or not. The test.csv dataset contains 104,480 subscriptions without the Churn information, and your task is to predict the likelihood of churn for these subscriptions. The dataset description can be found in the data_descriptions.csv file. The dataset contains 20 predictor variables.
 
 ## Observations
 - Data doesn't contain any null values
